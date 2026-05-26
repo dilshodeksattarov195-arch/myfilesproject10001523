@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploaderdetch",
+        "uuid": 5402081,
+        "checksum": "0h2zsr"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
